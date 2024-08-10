@@ -64,7 +64,6 @@ We prioritize an intuitive, user-friendly interface that includes:
 
 ## UI/UX Prototype
 ![UserRegistration](UserRegistration.jpg)
-![UserOptions](UserOption.jpg)
 ![UserProfile_1](UserProfile_1.jpg)
 ![UserProfile_2](UserProfile_2.jpg)
 ![GyanecologistMeet_2](GynecologistMeet_2.jpg)
