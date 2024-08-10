@@ -63,14 +63,11 @@ We prioritize an intuitive, user-friendly interface that includes:
 - Community Features
 
 ## UI/UX Prototype
+![UserRegistration](UserRegistration.jpg)
 ![UserOptions](UserOption.jpg)
 ![UserProfile_1](UserProfile_1.jpg)
 ![UserProfile_2](UserProfile_2.jpg)
-1[UserRegistration](UserRegistration.jpg)
-![GyanecologistMeet_1](GyanecoloistMeet_1.jpg)
-![Diet_Recommendation](Diet_Recommendation.jpg)
-![Medicine_Recommendation](Medicine_Recommendation.jpg)
-![MestrualCycleTracker](MenstrualCycleTracker.jpg)
+![GyanecologistMeet_2](GynecologistMeet_2.jpg)
 
 ## Ethical and Sustainable Foundations
 1. **Data Privacy and Security:** Encrypted user data with transparent privacy policies.
