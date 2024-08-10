@@ -62,6 +62,16 @@ We prioritize an intuitive, user-friendly interface that includes:
 - AI Health Insights
 - Community Features
 
+## UI/UX Prototype
+![UserOptions](UserOption.jpg)
+![UserProfile_1](UserProfile_1.jpg)
+![UserProfile_2](UserProfile_2.jpg)
+1[UserRegistration](UserRegistration.jpg)
+![GyanecologistMeet_1](GyanecoloistMeet_1.jpg)
+![Diet_Recommendation](Diet_Recommendation.jpg)
+![Medicine_Recommendation](Medicine_Recommendation.jpg)
+![MestrualCycleTracker](MenstrualCycleTracker.jpg)
+
 ## Ethical and Sustainable Foundations
 1. **Data Privacy and Security:** Encrypted user data with transparent privacy policies.
 2. **Inclusivity:** Designed for diverse backgrounds and health needs.
